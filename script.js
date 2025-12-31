@@ -1,19 +1,19 @@
 const images = [
-    "image/ruchi1.jpg",
-    "image/ruchi2.jpg",
-    "image/ruchi3.jpg",
-    "image/ruchi4.jpg",
-    "image/ruchi5.png",
-    "image/ruchi6.jpg",
-    "image/ruchi7.jpg",
-    "image/ruchi8.jpg",
-    "image/ruchi9.jpg",
-    "image/ruchi10.jpg",
-    "image/ruchi11.jpg",
-    "image/ruchi12.jpg",
-    "image/ruchi13.jpg",
-    "image/ruchi14.jpg",
-    "image/ruchi15.jpg"
+    "ruchi1.jpg",
+    "ruchi2.jpg",
+    "ruchi3.jpg",
+    "ruchi4.jpg",
+    "ruchi5.png",
+    "ruchi6.jpg",
+    "ruchi7.jpg",
+    "ruchi8.jpg",
+    "ruchi9.jpg",
+    "ruchi10.jpg",
+    "ruchi11.jpg",
+    "ruchi12.jpg",
+    "ruchi13.jpg",
+    "ruchi14.jpg",
+    "ruchi15.jpg"
 
 ];
 
@@ -30,3 +30,4 @@ setInterval(() => {
     }, 1000);
 
 }, 3500);
+
